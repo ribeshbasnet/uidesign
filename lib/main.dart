@@ -171,7 +171,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   child: MaterialButton(
                     onPressed: () {},
                     child: Text(
-                      "Buy Now",
+                      "sell Now",
                       style: GoogleFonts.sourceSansPro(
                           color: Colors.white,
                           fontSize: 17,
